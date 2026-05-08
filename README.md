@@ -28,6 +28,7 @@ Does code matter?
 |-------|--------|-------------|
 | [Full Walkthrough: Workflow for AI Coding](https://youtu.be/-QFHIoCo-Ko) — 24 Apr 2026 | Matt Pocock | Matt argues against the "specs to code" movement — editing only the spec while ignoring the generated code is just vibe coding by another name, and it doesn't work. You have to keep a handle on the code, understand what's in it, and shape it, because **"the code is your battleground."** |
 | [Everything We Got Wrong About Research-Plan-Implement](https://youtu.be/YwZR6tc7qYg?t=541) — 24 Mar 2026 | Dex Horthy | Dex publicly reverses his earlier "don't read the code, just ship the plan" advice: **"Please read the code. We tried not reading the code for like six months. It did not end well — we had to rip out and replace large parts of that system."** New rule: don't read the plans, read the code. Don't outsource the thinking. |
+| [The Friction is Your Judgment](https://www.youtube.com/watch?v=_Zcw_sVF6hU) — 23 Apr 2026 | Armin Ronacher & Cristina Poncela Cubeiro | Armin (creator of Flask) and Cristina explore the paradox of AI coding agents: tools promise to "ship without friction," but excessive speed leads to technical debt, security issues, and brittle systems. They argue **friction is a necessary component of high-quality software engineering** because it forces human judgment and critical thinking. |
 
 ### ❌ No
 
